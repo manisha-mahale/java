@@ -1,7 +1,7 @@
 package A ;
 class packSample
 {
-	int i = 30 ;
+	int i = 50 ;
 	public void add()
 	{
 		System.out.println( " A " ) ;
